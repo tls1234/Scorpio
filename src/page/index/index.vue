@@ -1,8 +1,5 @@
 <template>
     <div id='index'>
-        <!-- header -->
-        <!-- <div class="headerTheme"><img src="~@/assets/img/header_theme.jpg"></div> -->
-
         <!-- banner -->
         <my-banner :json='bannerJson'></my-banner>
 

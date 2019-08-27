@@ -7,7 +7,6 @@
 
 > [ES6/7（JS语法）](https://github.com/lukehoban/es6features)、[Stylus（css预处理器）](https://github.com/stylus/stylus)、[ESlint（JS风格规范）](https://github.com/standard/standard/blob/master/docs/RULES-zhcn.md)、[webpack3（资源处理）](https://github.com/webpack/webpack)
 
-
 ## 功能
 
 - [x] 全站内播放（单页面优点）
